@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hello....ok help me understand why my user name always shows as "odokodo"...
